@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "yoake",
+  "base_artist": "MAN WITH A MISSION",
+  "createdAt": "2026-01-13T22:06:29.204384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mitsu no Yoake",
+      "artist": "Arai Akino",
+      "has_synced": true,
+      "path": "select/01_Mitsu_no_Yoake_Arai_Akino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yasashii Yoake",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/02_Yasashii_Yoake_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "yasashii yoake TV-size",
+      "artist": "See-Saw",
+      "has_synced": true,
+      "path": "select/03_yasashii_yoake_TV-size_See-Saw.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "yasashii yoake TV-size",
+      "artist": "See-Saw",
+      "has_synced": false,
+      "path": "select/04_yasashii_yoake_TV-size_See-Saw.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yoake No Octave",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/05_Yoake_No_Octave_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yoake no Octave [夜明けのオクターブ]",
+      "artist": "Maaya Sakamoto",
+      "has_synced": true,
+      "path": "select/06_Yoake_no_Octave_[夜明けのオクターブ]_Maaya_Sakamoto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yoake no Orange (Dai-Seigi ver.) [夜明けのオレンジ (大正義 ver.)]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/07_Yoake_no_Orange_(Dai-Seigi_ver.)_[夜明けのオレンジ_(大正義_ver.)]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yoake no Orenji (Zenchi Zennou ver.) [夜明けのオレンジ (全知全能 ver.)]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/08_Yoake_no_Orenji_(Zenchi_Zennou_ver.)_[夜明けのオレンジ_(全知全能_ver.)]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mitsu no Yoake",
+      "artist": "Akino Arai",
+      "has_synced": true,
+      "path": "select/09_Mitsu_no_Yoake_Akino_Arai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yoake no Kimi e",
+      "artist": "TOMOO",
+      "has_synced": true,
+      "path": "select/10_Yoake_no_Kimi_e_TOMOO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yoake no Kimi e",
+      "artist": "TOMOO",
+      "has_synced": false,
+      "path": "select/11_Yoake_no_Kimi_e_TOMOO.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yoake No Ryuseigun",
+      "artist": "Scandal",
+      "has_synced": false,
+      "path": "select/12_Yoake_No_Ryuseigun_Scandal.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yoake no Ryuuseigun",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/13_Yoake_no_Ryuuseigun_SCANDAL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "yoake",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_01_yoake_MAN_WITH_A_MISSION.txt"
+    }
+  ]
+}
